@@ -1,0 +1,24 @@
+.\objects\main.o: main.c
+.\objects\main.o: D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h
+.\objects\main.o: D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h
+.\objects\main.o: D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm7.h
+.\objects\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\main.o: D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\main.o: D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\main.o: D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\main.o: D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h
+.\objects\main.o: .\FreeRTOS\include\FreeRTOS.h
+.\objects\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main.o: A:\Test task\FreeRTOSConfig.h
+.\objects\main.o: .\FreeRTOS\include\projdefs.h
+.\objects\main.o: .\FreeRTOS\include\portable.h
+.\objects\main.o: .\FreeRTOS\include\deprecated_definitions.h
+.\objects\main.o: .\FreeRTOS\include\portmacro.h
+.\objects\main.o: .\FreeRTOS\include\mpu_wrappers.h
+.\objects\main.o: .\FreeRTOS\include\task.h
+.\objects\main.o: .\FreeRTOS\include\list.h
+.\objects\main.o: .\FreeRTOS\include\queue.h
+.\objects\main.o: .\FreeRTOS\include\semphr.h
+.\objects\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h

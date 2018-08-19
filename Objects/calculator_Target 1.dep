@@ -1,0 +1,149 @@
+Dependencies for Project 'calculator', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5B7878DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h)(0x5A8FE9F4)
+I (D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h)(0x5A8FE9F4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm7.h)(0x5B61B6D4)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F84E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B588A16)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B61B6D4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h)(0x5B61B6D4)
+I (D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h)(0x5A8FE9F4)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+I (.\FreeRTOS\include\queue.h)(0x5A3842D8)
+I (.\FreeRTOS\include\semphr.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+F (.\FreeRTOSConfig.h)(0x5B78559F)()
+F (.\FreeRTOS\event_groups.c)(0x5A3842D8)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\event_groups.o --omf_browse .\objects\event_groups.crf --depend .\objects\event_groups.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+I (.\FreeRTOS\include\timers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\event_groups.h)(0x5A3842D8)
+F (.\FreeRTOS\heap_1.c)(0x5A3842DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\heap_1.o --omf_browse .\objects\heap_1.crf --depend .\objects\heap_1.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+F (.\FreeRTOS\list.c)(0x5A3842D8)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+F (.\FreeRTOS\port.c)(0x5A3842DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+F (.\FreeRTOS\queue.c)(0x5A3842DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+I (.\FreeRTOS\include\queue.h)(0x5A3842D8)
+F (.\FreeRTOS\stream_buffer.c)(0x5A3842DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\stream_buffer.o --omf_browse .\objects\stream_buffer.crf --depend .\objects\stream_buffer.d)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+I (.\FreeRTOS\include\stream_buffer.h)(0x5A3842D8)
+F (.\FreeRTOS\tasks.c)(0x5A3842DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+I (.\FreeRTOS\include\timers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\stack_macros.h)(0x5A3842D8)
+F (.\FreeRTOS\timers.c)(0x5A3842DA)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (D:\Keil\ARM\ARMCC\include\stdlib.h)(0x599F137C)
+I (.\FreeRTOS\include\FreeRTOS.h)(0x5A3842D8)
+I (D:\Keil\ARM\ARMCC\include\stddef.h)(0x599F137C)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (A:\Test task\FreeRTOSConfig.h)(0x5B78559F)
+I (.\FreeRTOS\include\projdefs.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portable.h)(0x5A3842D8)
+I (.\FreeRTOS\include\deprecated_definitions.h)(0x5A3842D8)
+I (.\FreeRTOS\include\portmacro.h)(0x5A3842DA)
+I (.\FreeRTOS\include\mpu_wrappers.h)(0x5A3842D8)
+I (.\FreeRTOS\include\task.h)(0x5A3842D8)
+I (.\FreeRTOS\include\list.h)(0x5A3842D8)
+I (.\FreeRTOS\include\queue.h)(0x5A3842D8)
+I (.\FreeRTOS\include\timers.h)(0x5A3842D8)
+F (RTE\Device\STM32F746NGHx\startup_stm32f746xx.s)(0x5B7853EB)(--cpu Cortex-M7.fp.sp -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include--pd "__UVISION_VERSION SETA 525" --pd "_RTE_ SETA 1" --pd "STM32F746xx SETA 1"--list .\listings\startup_stm32f746xx.lst --xref -o .\objects\startup_stm32f746xx.o --depend .\objects\startup_stm32f746xx.d)
+F (RTE\Device\STM32F746NGHx\system_stm32f7xx.c)(0x5B76B18C)(--c99 --gnu -c --cpu Cortex-M7.fp.sp -g -O0 --apcs=interwork --split_sections -I "A:\Test task" -I .\FreeRTOS -I .\FreeRTOS\include-I.\RTE\_Target_1-ID:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-ID:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="525" -D_RTE_ -DSTM32F746xx-o .\objects\system_stm32f7xx.o --omf_browse .\objects\system_stm32f7xx.crf --depend .\objects\system_stm32f7xx.d)
+I (D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h)(0x5A8FE9F4)
+I (D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f746xx.h)(0x5A8FE9F4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm7.h)(0x5B61B6D4)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F84E4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B588A16)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B61B6D4)
+I (D:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h)(0x5B61B6D4)
+I (D:\Keil\ARM\PACK\Keil\STM32F7xx_DFP\2.10.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h)(0x5A8FE9F4)
